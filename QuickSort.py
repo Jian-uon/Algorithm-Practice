@@ -1,5 +1,6 @@
 import copy
 
+
 arr = [7,4,9,2,1,0,5,7,3]
 
 def QuickSort(a, b):
