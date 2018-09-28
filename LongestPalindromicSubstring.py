@@ -4,6 +4,8 @@
 #2. O(n^2) 枚举字串中心,再枚举字串长度
 #3. O(n) Manacher算法
 #arr = "abacbacbacbcab"
+
+
 def Manacher():
     arr = raw_input()
     new_arr = "#"
